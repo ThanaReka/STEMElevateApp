@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">STEMElevate</string>
+    <string name="action_go">Go</string>
+    <string name="output_screen_title">Suggested Career Pathways</string>
+    <string name="label_prompt">Prompt</string>
+    <string name="results_placeholder">(Results will appear here)</string>
+    <string name="welcome">Welcome Screen</string>
+    <string name="user_preferences">User Preferences Screen</string>
+        <string name="fullarticle">Full Article Screen</string>
+        <string name="loading">Loading</string>
+        <string name="loading_failed">Failed to load</string>
+        <string name="back_button">Back Button</string>
+        <string name="article_photo">Article photo</string>
+        <string name="retry">Retry</string>
+        <string name="detail">Detail Screen</string>
+    <string name="gemini_feedback">Gemini Feedback\n</string>
+
+
+</resources>

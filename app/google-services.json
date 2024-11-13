@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "317076432525",
+    "project_id": "stemelevate-app",
+    "storage_bucket": "stemelevate-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317076432525:android:b0e35fcb474506705e24c4",
+        "android_client_info": {
+          "package_name": "com.example.stemelevate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzDM7Fb-jz_YVGoaXpedm9mDVKxYn057o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
